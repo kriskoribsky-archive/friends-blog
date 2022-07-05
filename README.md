@@ -17,7 +17,7 @@ The only dependency is Boostrap, which is installed from https://getbootstrap.co
 Create a blog, publish it. Comment on other friend's blogs and discuss your opinions & plans underneath in the comments.
 
 ## Support
-- owner & maintainer: **Kristián Koribský** kris.koribsky@pevasoft.sk
+- owner & maintainer: **Kristián Koribský** kris.koribsky@pevasoft.com
 
 ## Roadmap
 1. Make simple blog like website design.
