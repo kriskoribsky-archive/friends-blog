@@ -31,7 +31,7 @@ At the moment closed for contributions.
 - owner & main contributor: **Kristián Koribský** kris.koribsky@pevasoft.com
 
 ## License
-This is a closed-source project.
+See LICENCE file
 
 ## Project status
 In the beginning, planning to slowly contribute in my free time.
